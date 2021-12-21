@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and NodeJS**
 
-- 👯 I’m looking to collaborate on **any great ideas or hackathon projects**
+- 🤜🤛 I’m looking to collaborate on **any great ideas or hackathon projects**
 
 - 💬 Ask me about **Life**
 
