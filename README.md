@@ -1,4 +1,4 @@
-<h1 align="center">Hola amigos 👋, I'm Aditya Gupta</h1>
+<h1 align="center">Hola amigos 👋, I'm Aditya Gupta 🤖</h1>
 <h3 align="center">A passionate software developer from India who loves to learn and work with various new technologies.</h3>
 
 - 🔭 I’m currently working on [Sportistaan](https://github.com/eddy1006/Sportistaan)
