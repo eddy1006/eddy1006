@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aditya.gupta2020a@vitstudent.ac.in**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am one of a kind :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
