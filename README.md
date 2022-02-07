@@ -1,4 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya 🤓</h1>
+
+<h3 align="center"><img src = "https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" /></h3>
+
 <h3 align="center">A passionate software developer from India who loves to learn and work with various new technologies.</h3>
 
 - 🔭 I’m currently working on [Sportistaan](https://github.com/eddy1006/Sportistaan)
