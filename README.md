@@ -1,4 +1,5 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya 🤓</h1>
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/HoffxyN8ghVuw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-mini-hanger-HoffxyN8ghVuw">via GIPHY</a></p>
 <h3 align="center">A passionate software developer from India who loves to learn and work with various new technologies.</h3>
 
 - 🔭 I’m currently working on [Sportistaan](https://github.com/eddy1006/Sportistaan)
