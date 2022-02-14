@@ -28,4 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1006&show_icons=true&locale=en" alt="eddy1006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1006&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="eddy1006" /></p>
