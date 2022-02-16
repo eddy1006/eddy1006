@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Sportistaan](https://github.com/eddy1006/Sportistaan)
 
-- 🌱 I’m currently learning **Flutter and NodeJS**
+- 🌱 I’m currently learning **Tensorflow and NodeJs**
 
 - 🤜🤛 I’m looking to collaborate on **any great ideas or hackathon projects**
 
