@@ -1,16 +1,15 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya 🤓</h1>
 
-<h3 align="center"><img src = "https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" /></h3>
-
-<h3 align="center">A passionate software developer from India who loves to learn and work with various new technologies.</h3>
+<h3 align="center">What would I be doing if I was not a programmer?... I guess we'll never know.</h3>
+<img src = "https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"  align = "right"/>
 
 - 🔭 I’m currently working on [Sportistaan](https://github.com/eddy1006/Sportistaan)
 
 - 🌱 I’m currently learning **Tensorflow and NodeJs**
 
-- 🤜🤛 I’m looking to collaborate on **any great ideas or hackathon projects**
+- 🤜🤛 I’m looking to collaborate on **any great business ideas or cool projects**
 
-- 💬 Ask me about **Life**
+- 💬 Ask me about **Life 👀**
 
 - 📫 How to reach me **aditya.gupta2020a@vitstudent.ac.in**
 
