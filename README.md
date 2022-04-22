@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Life 👀**
 
-- 📫 How to reach me **aditya.gupta2020a@vitstudent.ac.in**
+- 📫 How to reach me **adigupta239@gmail.com**
 
 - ⚡ Fun fact **I am one of a kind :)**
 
