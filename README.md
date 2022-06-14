@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya 🤓</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Aditya 🤓</h1>
 
 <h3 align="center">What would I be doing if I was not a programmer?... I guess we'll never know.</h3>
 <img src = "https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"  align = "right"/>
