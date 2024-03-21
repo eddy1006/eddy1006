@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adigupta239@gmail.com**
 
-- ⚡ Fun fact **I am one of a kind :)**
+- ⚡ Fun fact **Cats are real!!**
 
 
 
